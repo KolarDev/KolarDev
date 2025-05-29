@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @KolarDev [Abdulbasit Muhyideen]!
-I'm a backend developer specializing in JavaScript, Node.js, Express, and database management with MongoDB and PostgreSQL. I’m passionate about building efficient, scalable web applications and APIs that solve real-world problems.
+I'm a backend developer specializing in JavaScript, Python, Node.js, Django, and database management with MongoDB and PostgreSQL. I’m passionate about building efficient, scalable web applications and APIs that solve real-world problems.
 
 - 👀 I’m interested in backend jobs/gigs
 - 💞️ I’m looking to collaborate on backend engineering projects.
@@ -10,9 +10,9 @@ I'm a backend developer specializing in JavaScript, Node.js, Express, and databa
 - ⚡ Fun fact: ...
 - 
 ### 🔧 Tech Stack
-- **Languages:** JavaScript, SQL
-- **Backend Frameworks:** Node.js, Express
-- **Databases:** MongoDB, PostgreSQL
+- **Languages:** JavaScript, Python SQL
+- **Backend Frameworks:** Node.js, Express, Django
+- **Databases:** MongoDB, PostgreSQL, MySql
 - **Frontend Basics:** HTML, CSS, JavaScript
 - **Tools & Version Control:** Git, Postman, GitHub, VScode
 
@@ -21,8 +21,8 @@ I'm a backend developer specializing in JavaScript, Node.js, Express, and databa
 
 ### 🚀 Featured Projects
 - **[KolPay API](https://github.com/KolarDev/KolPay)**:  A fintech backend application API built using Node.js and Express.js. It provides users with functionality to manage their financial transactions, such as deposits, withdrawals, and transfers. It also includes an admin dashboard for monitoring user activities, generating reports, invoices and handling transactions.
-- **[To-Do List API](https://github.com/yourusername/todo-list-api)**: A CRUD API with JWT-based user authentication and task management.
-
+- **[Event manager and ticketing API](https://github.com/yourusername/todo-list-api)**:
+- **[Crypto telegram bot](https://github.com/KolarDev/CryptoBuddy)**: An utility telegram bot that helps with basic crypto activities like coin prices, coin tracking, trading signals and crypto news
 ### 🌱 Currently Learning
 - CI/CD tools
 - Advanced database indexing and optimization techniques
