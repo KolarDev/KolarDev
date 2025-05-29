@@ -10,20 +10,14 @@ I'm a backend developer specializing in JavaScript, Python, Node.js, Django, and
 - ⚡ Fun fact: ...
 - 
 ### 🔧 Tech Stack
-- **Languages:** JavaScript, Python SQL
+- **Languages:** JavaScript, Python, SQL
 - **Backend Frameworks:** Node.js, Express, Django
 - **Databases:** MongoDB, PostgreSQL, MySql
 - **Frontend Basics:** HTML, CSS, JavaScript
 - **Tools & Version Control:** Git, Postman, GitHub, VScode
 
-### 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KolarDev&layout=compact&theme=radical)
 
-### 🚀 Featured Projects
-- **[KolPay API](https://github.com/KolarDev/KolPay)**:  A fintech backend application API built using Node.js and Express.js. It provides users with functionality to manage their financial transactions, such as deposits, withdrawals, and transfers. It also includes an admin dashboard for monitoring user activities, generating reports, invoices and handling transactions.
-- **[Event manager and ticketing API](https://github.com/yourusername/todo-list-api)**:
-- **[Crypto telegram bot](https://github.com/KolarDev/CryptoBuddy)**: An utility telegram bot that helps with basic crypto activities like coin prices, coin tracking, trading signals and crypto news
-### 🌱 Currently Learning
+### 🌱 Advanced Knowledge 
 - CI/CD tools
 - Advanced database indexing and optimization techniques
 - Docker and Kubernetes for containerization & orchestration
