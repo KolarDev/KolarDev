@@ -1,81 +1,95 @@
-# 👋 Hi, I'm Muhyideen Abdulbasit
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Muhyideen+Abdulbasit;Software+Engineer;Building+Reliable+Web+Systems" />
+</p>
 
-**Software Engineer** focused on building reliable, scalable web systems.
-
-I work across backend and frontend layers, with hands-on experience designing APIs, building full-stack applications, and contributing to production systems. I enjoy solving real problems, writing clean code, and collaborating with engineers to deliver practical solutions.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KolarDev&label=Profile%20views&style=flat" />
+</p>
 
 ---
 
-## 🛠️ Technical Stack
+## 👨‍💻 About Me
 
-**Languages**  
-JavaScript · TypeScript · Python
+I’m a **Software Engineer** with hands-on experience building reliable, scalable web systems across backend and frontend layers.  
+I enjoy designing clean APIs, working with databases, and collaborating with teams to ship practical solutions.
 
-**Backend & Web**  
-Node.js · Express.js · Django · RESTful APIs · Authentication & Authorization
+I value **clarity, correctness, and maintainability** in code, and I’m always looking to improve how systems are designed and delivered.
 
-**Frontend**  
-React · Next.js
+---
 
-**Databases**  
-PostgreSQL · MongoDB
+## 🧠 Technical Focus
 
-**Tools & Platforms**  
-Git & GitHub · Docker · AWS (basic) · Linux · Postman · CI/CD fundamentals
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,django,react,nextjs,postgres,mongodb,docker,aws,linux,git&perline=7" />
+</p>
+
+- Backend development with Node.js, Express, and Django  
+- Frontend development using React and Next.js  
+- RESTful APIs, authentication & access control  
+- Database design with PostgreSQL and MongoDB  
+- Containerization and deployment fundamentals  
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KolarDev&show_icons=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KolarDev&layout=compact" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KolarDev&show_icons=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KolarDev&layout=compact" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KolarDev" height="170"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KolarDev&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KolarDev&no-frame=true&margin-w=15" />
 </p>
 
+- **First Place Winner**, multiple open community hackathons (2025)  
+- Recognised for problem-solving, teamwork, and technical execution under time constraints  
 
 ---
 
 ## 💼 Experience Highlights
 
-- Contributed to a **multi-tenant property listing and construction project management platform**, working closely with senior engineers on backend architecture, APIs, and authentication workflows.
+- Worked on a **multi-tenant property listing and construction project management platform**, contributing to backend architecture, APIs, and authentication workflows.
 - Built **automation bots for Telegram and Discord**, supporting workflow automation and system integrations.
-- Led backend development efforts within a developer community, **reviewing code and mentoring junior developers**.
+- Served in a **technical leadership role**, reviewing code, mentoring developers, and contributing to real-world software solutions.
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Selected Work
 
 - **Trip Booking Platform**  
-  Backend-driven system where drivers create scheduled trips and passengers reserve seats ahead of departure, involving booking workflows, user roles, and backend logic.
+  Backend-driven system enabling drivers to create scheduled trips and passengers to reserve seats ahead of departure, involving booking workflows, user roles, and backend logic.
 
-- **Automation Bots**  
-  Custom Telegram and Discord bots supporting automated workflows, notifications, and integrations.
+- **Automation Systems**  
+  Bots and backend services supporting notifications, integrations, and operational workflows.
 
 - **Full-Stack Applications**  
   Web applications built with React / Next.js and Node.js / Django.
 
 ---
 
-## 🏅 Achievements
+## 🤝 Connect With Me
 
-- **First Place Winner**, multiple open community hackathons (2025), recognised for technical execution, problem-solving, and teamwork.
+<p align="center">
+  <a href="https://github.com/KolarDev">
+    <img src="https://img.shields.io/badge/GitHub-KolarDev-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:muhyideenabdulbasit2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-## 🤝 Let’s Connect
-
-- **Email:** muhyideenabdulbasit2@gmail.com  
-- **GitHub:** [github.com/KolarDev](https://github.com/KolarDev)
-
----
-
-> *Always open to collaboration, internships, and opportunities to build meaningful software.*
+<p align="center">
+  <em>“Building software that is clear, reliable, and useful.”</em>
+</p>
