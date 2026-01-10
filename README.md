@@ -25,20 +25,22 @@ Git & GitHub · Docker · AWS (basic) · Linux · Postman · CI/CD fundamentals
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KolarDev&show_icons=true&theme=transparent" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KolarDev&layout=compact&theme=transparent" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KolarDev&show_icons=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KolarDev&layout=compact" height="165"/>
 </p>
+
 
 ---
 
-## 🏆 GitHub Profile Trophy
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KolarDev&theme=flat&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KolarDev&no-frame=true&margin-w=10" />
 </p>
+
 
 ---
 
