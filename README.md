@@ -24,7 +24,7 @@ I value **clarity, correctness, and maintainability** in code, and I’m always 
   <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,django,react,nextjs,postgres,mongodb,docker,aws,linux,git&perline=7" />
 </p>
 
-- Backend development with Node.js, Express, and Django  
+- Backend development with Node.js, Express, Nest, and Django  
 - Frontend development using React and Next.js  
 - RESTful APIs, authentication & access control  
 - Database design with PostgreSQL and MongoDB  
