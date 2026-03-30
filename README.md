@@ -56,18 +56,9 @@ I value **clarity, correctness, and maintainability** in code, and I’m always 
 
 ---
 
-## 💼 Experience Highlights
-
-- Worked on a **multi-tenant property listing and construction project management platform**, contributing to backend architecture, APIs, and authentication workflows.
-- Built **automation bots for Telegram and Discord**, supporting workflow automation and system integrations.
-- Served in a **technical leadership role**, reviewing code, mentoring developers, and contributing to real-world software solutions.
-
 ---
 
 ## 🚀 Selected Work
-
-- **Trip Booking Platform**  
-  Backend-driven system enabling drivers to create scheduled trips and passengers to reserve seats ahead of departure, involving booking workflows, user roles, and backend logic.
 
 - **Automation Systems**  
   Bots and backend services supporting notifications, integrations, and operational workflows.
